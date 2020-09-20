@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/folder-open.png</file>
+        <file>icons/view-bank-account.png</file>
+        <file>icons/dialog-ok-apply.png</file>
+        <file>icons/edit-delete.png</file>
+        <file>icons/list-remove-blue.png</file>
+        <file>icons/download-later.png</file>
+        <file>icons/svn-commit.png</file>
+        <file>icons/svn-update.png</file>
+        <file>icons/system-log-out.png</file>
+        <file>icons/wallet-open.png</file>
+    </qresource>
+</RCC>
